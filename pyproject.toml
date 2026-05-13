@@ -1,0 +1,14 @@
+[project]
+name = "resume-generator"
+version = "0.1.0"
+description = "Align your resume with the job description"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.40",
+    "streamlit-pdf-viewer>=0.0.19",
+    "anthropic>=0.40",
+    "python-dotenv>=1.0",
+    "pypdf>=5.0",
+    "python-docx>=1.1",
+]

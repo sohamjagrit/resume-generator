@@ -1,0 +1,35 @@
+{
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "phone": "555-555-5555",
+  "linkedin_url": "linkedin.com/in/janedoe",
+  "github_url": "github.com/janedoe",
+  "location": "Austin, TX",
+  "target_roles": "Data Scientist, Machine Learning Engineer",
+  "education": [
+    {
+      "institution": "University of Example",
+      "degree": "Masters in Data Science",
+      "location": "Example City, ST",
+      "dates": "Aug 2023 – May 2025",
+      "relevant_courses": [
+        "Machine Learning",
+        "Statistical Methods",
+        "Data Mining",
+        "Big Data Systems"
+      ]
+    },
+    {
+      "institution": "Another University",
+      "degree": "Bachelors in Computer Science",
+      "location": "Another City, Country",
+      "dates": "2019 – 2023",
+      "relevant_courses": [
+        "Data Structures",
+        "Algorithms",
+        "Databases",
+        "AI"
+      ]
+    }
+  ]
+}
